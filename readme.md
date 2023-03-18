@@ -49,3 +49,7 @@ python wwcc_status.py
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to help improve this project.
+
+## License
+
+This project is licensed under the WWCC Status Checker License. See the [LICENSE.md](LICENSE.md) file for details.
