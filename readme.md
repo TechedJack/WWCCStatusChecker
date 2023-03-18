@@ -1,6 +1,6 @@
 # WWCC Status Checker
 
-A simple and easy-to-use solution for organizations to remain compliant with Working With Children Check (WWCC) laws in Australia. This script allows you to check the status of WWCC cards for Victoria (VIC). Support for other states and territories is planned for future releases.
+A simple and easy-to-use solution for organisations to remain compliant with Working With Children Check (WWCC) laws in Australia. This script allows you to check the status of WWCC cards for Victoria (VIC). Support for other states and territories is planned for future releases.
 
 ## Getting Started
 
