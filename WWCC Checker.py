@@ -1,3 +1,8 @@
+"""
+Author: Jack Moore
+Twitter: @TechedJack
+Copyright (C) 2023 Jack Moore. All rights reserved.
+"""
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -130,6 +135,10 @@ def check_bulk_csv(input_file, output_filename):
     print(f"No results found: {no_results_count}")
 
 def main():
+    print("WWCC-Status-Checker by Jack Moore")
+    print("Copyright (C) 2023 Jack Moore. All rights reserved.")
+    print("For any inquiries, please contact me via Twitter @TechedJack\n")
+    
     while True:
         print("\nSelect an option:")
         print("1. Check a single card")
